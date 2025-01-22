@@ -13,9 +13,7 @@
   - A **block-based game engine project** that simplifies game creation for beginners  
 
 ## 🚀 Current Goals  
-- Launch a professional **game development studio** post-graduation  
-- Master **team and project management** to lead a successful game studio  
-- Achieve fluency in **English** to broaden my opportunities in the tech world  
+- Surviving in the current situation
 
 ## 🎯 Interests  
 - Learning new **programming languages** and technologies  
