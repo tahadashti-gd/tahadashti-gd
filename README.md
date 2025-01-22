@@ -10,7 +10,6 @@
 - Developing **Telegram bots** for practical and creative purposes, such as:  
   - [CodeMate](#): A code-sharing bot for developers  
   - [FluxGuard](#): A tool for remote system control  
-  - A **block-based game engine project** that simplifies game creation for beginners  
 
 ## 🚀 Current Goals  
 - Surviving in the current situation
