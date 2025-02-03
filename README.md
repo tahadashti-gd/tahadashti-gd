@@ -9,7 +9,8 @@
 - Exploring **networking, security**, and advanced programming concepts  
 - Developing **Telegram bots** for practical and creative purposes, such as:  
   - [CodeMate](#): A code-sharing bot for developers  
-  - [FluxGuard](https://github.com/tahadashti-gd/FluxGuard): A tool for remote system control  
+  - [FluxGuard](https://github.com/tahadashti-gd/FluxGuard): A tool for remote system control
+  - [FluxTune]("https://github.com/tahadashti-gd/FluxTune"): Music Recognition Telegram Bot
 
 ## 🚀 Current Goals  
 - Surviving in the current situation
