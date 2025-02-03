@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Taha!  
+# I'm Taha!  
 🎮 **Game Developer | Programmer | Tech Enthusiast**  
 🌍 **Based in Iran**  
 
@@ -6,7 +6,6 @@
 
 ## ✨ What I Do  
 - Building innovative games and apps with Unity  
-- Exploring **networking, security**, and advanced programming concepts  
 - Developing **Telegram bots** for practical and creative purposes, such as:  
   - [CodeMate](#): A code-sharing bot for developers  
   - [FluxGuard](https://github.com/tahadashti-gd/FluxGuard): A tool for remote system control
