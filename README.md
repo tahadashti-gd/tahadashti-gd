@@ -1,10 +1,14 @@
-# I'm Taha!  
-🎮 **Game Developer | Programmer | Tech Enthusiast**  
-🌍 **Based in Iran**  
+# I'm Taha. Tony. I respond to both.!
 
-## ✨ What I Do  
-- Building innovative games and apps with Unity  
-- Developing **Telegram bots** for practical and creative purposes, such as:  
-  - [CodeMate](#): A code-sharing bot for developers  
-  - [FluxGuard](https://github.com/tahadashti-gd/FluxGuard): A tool for remote system control
-  - [FluxTune](https://github.com/tahadashti-gd/FluxTune): Music Recognition Telegram Bot
+
+Backend, **AI**, and an unreasonable number of side projects.  
+Mostly **Python**, APIs, and controlled chaos.
+
+*Formerly fluent in C#. Wrote more of it than I’m willing to admit, and I’m still emotionally attached to semicolons.*
+
+### Things I've built
+
+- **Zuno** — AI-powered video translation and localization. *(closed source, because some recipes stay in the kitchen — [zunolab.ir](https://zunolab.ir))*
+- **IRIS** — A local-first agentic AI system. *(highly classified. seriously. — [lab.tnydev.ir/iris](https://lab.tnydev.ir/project/001))*
+
+More things I probably shouldn't have built: **[tnydev.ir](https://tnydev.ir)**
